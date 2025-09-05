@@ -44,24 +44,29 @@ This app allows users to explore menus, search for meals, add meals to a plan, p
 ## 🛠️ Installation & Setup
 
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/vikashbaria/Smart-Food-App.git
 ```
 
 2. Navigate to the project directory:
-```bash
+```
 cd Smart-Food-App
 ```
 
 3. Get dependencies:
-```bash
+```
 flutter pub get
 ```
 4. Run the app:
-```bash
+```
 flutter run
 
 ```
+
+## 🤝 Contribution
+
+Feel free to fork the repo and submit pull requests.
+If you like this project, please ⭐ the repository.
 
 
 
