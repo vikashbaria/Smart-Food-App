@@ -62,11 +62,6 @@ flutter pub get
 flutter run
 
 ```
-
 ## 🤝 Contribution
-
 Feel free to fork the repo and submit pull requests.
 If you like this project, please ⭐ the repository.
-
-
-
