@@ -1,16 +1,67 @@
-# smartfoodapp
+# 🍴 Smart Food App
 
-A new Flutter project.
+A **Flutter-based Smart Food App** built with clean UI and responsive design.  
+This app allows users to explore menus, search for meals, add meals to a plan, place orders, manage their cart, and view their profile.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📱 **Splash Screen**  
+- 🏠 **Home Page** – Browse available food items  
+- 🔍 **Search Page** – Find meals easily  
+- 🍽️ **Meal Plan** – Add and manage meals  
+- 🛒 **Cart & Checkout** – Add orders and proceed to checkout  
+- 👤 **Profile Section** – Manage your details  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+### 🔑 Splash Screen
+![Splash Screen](https://raw.githubusercontent.com/vikashbaria/Smart-Food-App/refs/heads/main/Splashscreen.JPG)
+
+### 🏠 Home Page
+![Home Page](https://raw.githubusercontent.com/vikashbaria/Smart-Food-App/refs/heads/main/home.JPG)
+
+### 🔍 Search Page
+![Search Page](https://github.com/vikashbaria/Smart-Food-App/blob/main/searchfood.JPG)
+
+### 🍽️ Meal Plan
+![Meal Plan](https://raw.githubusercontent.com/vikashbaria/Smart-Food-App/refs/heads/main/meal_add_and_show.JPG)
+
+### 🛒 Add Order & Checkout
+![Order & Checkout](https://raw.githubusercontent.com/vikashbaria/Smart-Food-App/refs/heads/main/orde_and_checkout.JPG)
+
+### 🛍️ Cart
+![Cart](https://raw.githubusercontent.com/vikashbaria/Smart-Food-App/refs/heads/main/checkout.JPG)
+
+### 👤 Profile
+![Profile](https://raw.githubusercontent.com/vikashbaria/Smart-Food-App/refs/heads/main/profile.JPG)
+
+---
+
+## 🛠️ Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/vikashbaria/Smart-Food-App.git
+```
+
+2. Navigate to the project directory:
+```bash
+cd Smart-Food-App
+```
+
+3. Get dependencies:
+```bash
+flutter pub get
+```
+4. Run the app:
+```bash
+flutter run
+
+```
+
+
+
